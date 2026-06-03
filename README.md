@@ -1,8 +1,6 @@
 # OA-CutMix: Correcting the Label Bias of CutMix
 
-[![arxiv](https://img.shields.io/badge/arXiv-OA--CutMix-b31b1b.svg?style=flat&logo=arxiv)](https://arxiv.org/abs/XXXX.XXXXX)
-[![project page](https://img.shields.io/badge/Project-Page-blue?style=flat&logo=github)](https://nauen-it.de/publications/oa-cutmix)
-[![masks](https://img.shields.io/badge/Precomputed%20Segmentation%20Masks-download-%23F59E0B?style=flat&logo=huggingface)](https://huggingface.co/datasets/oa-cutmix/masks)
+[![masks](https://img.shields.io/badge/Precomputed%20Segmentation%20Masks-download-%23F59E0B?style=flat&logo=huggingface)](https://huggingface.co/datasets/TNauen/Sam3-ImageNet-Segmentations)
 [![license](https://img.shields.io/badge/license-Apache--2.0-%23B7A800)](LICENSE)
 
 ![OA-CutMix: The ghost label problem](figs/fig-1.png)
