@@ -116,7 +116,7 @@ If you find OA-CutMix useful in your research, please cite:
 ```bibtex
 @article{oacutmix,
   title  = {OA-CutMix: Correcting the Label Bias of CutMix},
-  author = {Anonymous},
+  author = {Tobias Christian Nauen and Stanislav Frolov and Federico Raue and Brian B. Moser and Andreas Dengel},
   year   = {2026}
 }
 ```
