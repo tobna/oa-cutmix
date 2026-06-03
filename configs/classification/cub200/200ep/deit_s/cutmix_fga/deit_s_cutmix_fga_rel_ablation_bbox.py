@@ -1,0 +1,13 @@
+_base_ = "deit_s_cutmix_fga_rel_l1p0.py"
+
+data_source_cfg = dict(
+    type="MaskCUB2011",
+    root="data/CUB2011",
+    mask_zip="/fscratch/nauen/datasets/cub200-masks/train_masks_bbox.zip",
+)
+
+data = dict(
+    train=dict(
+        data_source=dict(split="train", **data_source_cfg),
+    ),
+)

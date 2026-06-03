@@ -1,0 +1,29 @@
+_base_ = "../r50_mixups.py"
+
+
+data_source_cfg = dict(
+    type="MaskImageFolder",
+    root="data/ImageNet",
+    mask_zip="/ds-sds/images/imagenet-sam3-masks/train_masks.zip",
+    classes_file="data/meta/ImageNet200/classes.txt",
+)
+
+data = dict(
+    train=dict(
+        data_source=dict(split="train", **data_source_cfg),
+    ),
+)
+
+# model settings
+model = dict(
+    alpha=1.0,
+    mix_mode="cutmix_foreground_area",
+    mix_args=dict(
+        cutmix_foreground_area=dict(fg_weight=1.0, mode="relative"),
+    ),
+    head=dict(
+        type="ClsMixupHead",
+        loss=dict(type="CrossEntropyLoss", loss_weight=1.0, use_soft=True, use_sigmoid=False),
+        multi_label=True,
+    ),
+)

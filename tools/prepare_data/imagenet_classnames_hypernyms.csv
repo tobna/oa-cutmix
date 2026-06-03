@@ -1,0 +1,1000 @@
+n01440764; tench; cyprinid
+n01443537; goldfish; cyprinid
+n01484850; great white shark; mackerel shark
+n01491361; tiger shark; requiem shark
+n01494475; hammerhead; shark
+n01496331; electric ray; ray
+n01498041; stingray; ray
+n01514668; cock; bird
+n01514859; hen; bird
+n01518878; ostrich; ratite
+n01530575; brambling; finch
+n01531178; goldfinch; finch
+n01532829; house finch; finch
+n01534433; junco; finch
+n01537544; indigo bunting; bunting
+n01558993; robin; thrush
+n01560419; bulbul; nightingale
+n01580077; jay; corvine bird
+n01582220; magpie; corvine bird
+n01592084; chickadee; titmouse
+n01601694; water ouzel; oscine
+n01608432; kite; hawk
+n01614925; bald eagle; eagle
+n01616318; vulture; bird of prey
+n01622779; great grey owl; owl
+n01629819; European fire salamander; salamander
+n01630670; common newt; newt
+n01631663; eft; newt
+n01632458; spotted salamander; ambystomid
+n01632777; axolotl; ambystomid
+n01641577; bullfrog; true frog
+n01644373; tree frog; frog
+n01644900; tailed frog; frog
+n01664065; loggerhead; sea turtle
+n01665541; leatherback turtle; sea turtle
+n01667114; mud turtle; turtle
+n01667778; terrapin; turtle
+n01669191; box turtle; turtle
+n01675722; banded gecko; gecko
+n01677366; common iguana; iguanid
+n01682714; American chameleon; iguanid
+n01685808; whiptail; teiid lizard
+n01687978; agama; agamid
+n01688243; frilled lizard; agamid
+n01689811; alligator lizard; anguid lizard
+n01692333; Gila monster; venomous lizard
+n01693334; green lizard; lacertid lizard
+n01694178; African chameleon; chameleon
+n01695060; Komodo dragon; monitor
+n01697457; African crocodile; crocodile
+n01698640; American alligator; alligator
+n01704323; triceratops; ceratopsian
+n01728572; thunder snake; colubrid snake
+n01728920; ringneck snake; colubrid snake
+n01729322; hognose snake; colubrid snake
+n01729977; green snake; colubrid snake
+n01734418; king snake; colubrid snake
+n01735189; garter snake; colubrid snake
+n01737021; water snake; colubrid snake
+n01739381; vine snake; colubrid snake
+n01740131; night snake; colubrid snake
+n01742172; boa constrictor; boa
+n01744401; rock python; python
+n01748264; Indian cobra; cobra
+n01749939; green mamba; black mamba
+n01751748; sea snake; snake
+n01753488; horned viper; viper
+n01755581; diamondback; rattlesnake
+n01756291; sidewinder; rattlesnake
+n01768244; trilobite; arthropod
+n01770081; harvestman; arachnid
+n01770393; scorpion; arachnid
+n01773157; black and gold garden spider; spider
+n01773549; barn spider; spider
+n01773797; garden spider; spider
+n01774384; black widow; spider
+n01774750; tarantula; spider
+n01775062; wolf spider; spider
+n01776313; tick; acarine
+n01784675; centipede; arthropod
+n01795545; black grouse; grouse
+n01796340; ptarmigan; grouse
+n01797886; ruffed grouse; grouse
+n01798484; prairie chicken; grouse
+n01806143; peacock; peafowl
+n01806567; quail; phasianid
+n01807496; partridge; phasianid
+n01817953; African grey; parrot
+n01818515; macaw; parrot
+n01819313; sulphur-crested cockatoo; cockatoo
+n01820546; lorikeet; lory
+n01824575; coucal; cuckoo
+n01828970; bee eater; coraciiform bird
+n01829413; hornbill; coraciiform bird
+n01833805; hummingbird; apodiform bird
+n01843065; jacamar; piciform bird
+n01843383; toucan; piciform bird
+n01847000; drake; duck
+n01855032; red-breasted merganser; merganser
+n01855672; goose; anseriform bird
+n01860187; black swan; swan
+n01871265; tusker; mammal
+n01872401; echidna; monotreme
+n01873310; platypus; monotreme
+n01877812; wallaby; kangaroo
+n01882714; koala; phalanger
+n01883070; wombat; marsupial
+n01910747; jellyfish; coelenterate
+n01914609; sea anemone; anthozoan
+n01917289; brain coral; stony coral
+n01924916; flatworm; worm
+n01930112; nematode; worm
+n01943899; conch; gastropod
+n01944390; snail; gastropod
+n01945685; slug; gastropod
+n01950731; sea slug; gastropod
+n01955084; chiton; mollusk
+n01968897; chambered nautilus; cephalopod
+n01978287; Dungeness crab; crab
+n01978455; rock crab; crab
+n01980166; fiddler crab; crab
+n01981276; king crab; crab
+n01983481; American lobster; true lobster
+n01984695; spiny lobster; lobster
+n01985128; crayfish; decapod crustacean
+n01986214; hermit crab; decapod crustacean
+n01990800; isopod; malacostracan crustacean
+n02002556; white stork; stork
+n02002724; black stork; stork
+n02006656; spoonbill; wading bird
+n02007558; flamingo; wading bird
+n02009229; little blue heron; heron
+n02009912; American egret; egret
+n02011460; bittern; heron
+n02012849; crane; wading bird
+n02013706; limpkin; wading bird
+n02017213; European gallinule; purple gallinule
+n02018207; American coot; coot
+n02018795; bustard; wading bird
+n02025239; ruddy turnstone; turnstone
+n02027492; red-backed sandpiper; sandpiper
+n02028035; redshank; sandpiper
+n02033041; dowitcher; snipe
+n02037110; oystercatcher; shorebird
+n02051845; pelican; pelecaniform seabird
+n02056570; king penguin; penguin
+n02058221; albatross; pelagic bird
+n02066245; grey whale; baleen whale
+n02071294; killer whale; dolphin
+n02074367; dugong; sea cow
+n02077923; sea lion; eared seal
+n02085620; Chihuahua; toy dog
+n02085782; Japanese spaniel; toy dog
+n02085936; Maltese dog; toy dog
+n02086079; Pekinese; toy dog
+n02086240; Shih-Tzu; toy dog
+n02086646; Blenheim spaniel; English toy spaniel
+n02086910; papillon; toy spaniel
+n02087046; toy terrier; toy dog
+n02087394; Rhodesian ridgeback; hunting dog
+n02088094; Afghan hound; hound
+n02088238; basset; hound
+n02088364; beagle; hound
+n02088466; bloodhound; hound
+n02088632; bluetick; hound
+n02089078; black-and-tan coonhound; coonhound
+n02089867; Walker hound; foxhound
+n02089973; English foxhound; foxhound
+n02090379; redbone; hound
+n02090622; borzoi; wolfhound
+n02090721; Irish wolfhound; wolfhound
+n02091032; Italian greyhound; greyhound
+n02091134; whippet; greyhound
+n02091244; Ibizan hound; hound
+n02091467; Norwegian elkhound; hound
+n02091635; otterhound; hound
+n02091831; Saluki; hound
+n02092002; Scottish deerhound; hound
+n02092339; Weimaraner; hound
+n02093256; Staffordshire bullterrier; bullterrier
+n02093428; American Staffordshire terrier; bullterrier
+n02093647; Bedlington terrier; terrier
+n02093754; Border terrier; terrier
+n02093859; Kerry blue terrier; terrier
+n02093991; Irish terrier; terrier
+n02094114; Norfolk terrier; terrier
+n02094258; Norwich terrier; terrier
+n02094433; Yorkshire terrier; terrier
+n02095314; wire-haired fox terrier; fox terrier
+n02095570; Lakeland terrier; wirehair
+n02095889; Sealyham terrier; Welsh terrier
+n02096051; Airedale; terrier
+n02096177; cairn; terrier
+n02096294; Australian terrier; terrier
+n02096437; Dandie Dinmont; terrier
+n02096585; Boston bull; terrier
+n02097047; miniature schnauzer; schnauzer
+n02097130; giant schnauzer; schnauzer
+n02097209; standard schnauzer; schnauzer
+n02097298; Scotch terrier; terrier
+n02097474; Tibetan terrier; terrier
+n02097658; silky terrier; terrier
+n02098105; soft-coated wheaten terrier; terrier
+n02098286; West Highland white terrier; terrier
+n02098413; Lhasa; terrier
+n02099267; flat-coated retriever; retriever
+n02099429; curly-coated retriever; retriever
+n02099601; golden retriever; retriever
+n02099712; Labrador retriever; retriever
+n02099849; Chesapeake Bay retriever; retriever
+n02100236; German short-haired pointer; pointer
+n02100583; vizsla; pointer
+n02100735; English setter; setter
+n02100877; Irish setter; setter
+n02101006; Gordon setter; setter
+n02101388; Brittany spaniel; spaniel
+n02101556; clumber; spaniel
+n02102040; English springer; springer spaniel
+n02102177; Welsh springer spaniel; springer spaniel
+n02102318; cocker spaniel; spaniel
+n02102480; Sussex spaniel; spaniel
+n02102973; Irish water spaniel; water spaniel
+n02104029; kuvasz; watchdog
+n02104365; schipperke; watchdog
+n02105056; groenendael; Belgian sheepdog
+n02105162; malinois; Belgian sheepdog
+n02105251; briard; shepherd dog
+n02105412; kelpie; shepherd dog
+n02105505; komondor; shepherd dog
+n02105641; Old English sheepdog; shepherd dog
+n02105855; Shetland sheepdog; shepherd dog
+n02106030; collie; shepherd dog
+n02106166; Border collie; shepherd dog
+n02106382; Bouvier des Flandres; shepherd dog
+n02106550; Rottweiler; shepherd dog
+n02106662; German shepherd; shepherd dog
+n02107142; Doberman; pinscher
+n02107312; miniature pinscher; pinscher
+n02107574; Greater Swiss Mountain dog; Sennenhunde
+n02107683; Bernese mountain dog; Sennenhunde
+n02107908; Appenzeller; Sennenhunde
+n02108000; EntleBucher; Sennenhunde
+n02108089; boxer; working dog
+n02108422; bull mastiff; working dog
+n02108551; Tibetan mastiff; mastiff
+n02108915; French bulldog; bulldog
+n02109047; Great Dane; working dog
+n02109525; Saint Bernard; working dog
+n02109961; Eskimo dog; working dog
+n02110063; malamute; sled dog
+n02110185; Siberian husky; sled dog
+n02110341; dalmatian; dog
+n02110627; affenpinscher; pinscher
+n02110806; basenji; dog
+n02110958; pug; dog
+n02111129; Leonberg; dog
+n02111277; Newfoundland; dog
+n02111500; Great Pyrenees; dog
+n02111889; Samoyed; spitz
+n02112018; Pomeranian; spitz
+n02112137; chow; spitz
+n02112350; keeshond; spitz
+n02112706; Brabancon griffon; griffon
+n02113023; Pembroke; corgi
+n02113186; Cardigan; corgi
+n02113624; toy poodle; poodle
+n02113712; miniature poodle; poodle
+n02113799; standard poodle; poodle
+n02113978; Mexican hairless; dog
+n02114367; timber wolf; wolf
+n02114548; white wolf; wolf
+n02114712; red wolf; wolf
+n02114855; coyote; wolf
+n02115641; dingo; wild dog
+n02115913; dhole; wild dog
+n02116738; African hunting dog; wild dog
+n02117135; hyena; canine
+n02119022; red fox; fox
+n02119789; kit fox; fox
+n02120079; Arctic fox; fox
+n02120505; grey fox; fox
+n02123045; tabby; domestic cat
+n02123159; tiger cat; domestic cat
+n02123394; Persian cat; domestic cat
+n02123597; Siamese cat; domestic cat
+n02124075; Egyptian cat; domestic cat
+n02125311; cougar; wildcat
+n02127052; lynx; wildcat
+n02128385; leopard; big cat
+n02128757; snow leopard; big cat
+n02128925; jaguar; big cat
+n02129165; lion; big cat
+n02129604; tiger; big cat
+n02130308; cheetah; big cat
+n02132136; brown bear; bear
+n02133161; American black bear; bear
+n02134084; ice bear; bear
+n02134418; sloth bear; bear
+n02137549; mongoose; viverrine
+n02138441; meerkat; viverrine
+n02165105; tiger beetle; beetle
+n02165456; ladybug; beetle
+n02167151; ground beetle; beetle
+n02168699; long-horned beetle; beetle
+n02169497; leaf beetle; beetle
+n02172182; dung beetle; scarabaeid beetle
+n02174001; rhinoceros beetle; scarabaeid beetle
+n02177972; weevil; beetle
+n02190166; fly; dipterous insect
+n02206856; bee; hymenopterous insect
+n02219486; ant; hymenopterous insect
+n02226429; grasshopper; orthopterous insect
+n02229544; cricket; orthopterous insect
+n02231487; walking stick; phasmid
+n02233338; cockroach; dictyopterous insect
+n02236044; mantis; dictyopterous insect
+n02256656; cicada; homopterous insect
+n02259212; leafhopper; homopterous insect
+n02264363; lacewing; neuropteron
+n02268443; dragonfly; odonate
+n02268853; damselfly; odonate
+n02276258; admiral; nymphalid
+n02277742; ringlet; butterfly
+n02279972; monarch; danaid
+n02280649; cabbage butterfly; pierid
+n02281406; sulphur butterfly; butterfly
+n02281787; lycaenid; butterfly
+n02317335; starfish; echinoderm
+n02319095; sea urchin; echinoderm
+n02321529; sea cucumber; echinoderm
+n02325366; wood rabbit; rabbit
+n02326432; hare; leporid
+n02328150; Angora; rabbit
+n02342885; hamster; rodent
+n02346627; porcupine; rodent
+n02356798; fox squirrel; tree squirrel
+n02361337; marmot; rodent
+n02363005; beaver; rodent
+n02364673; guinea pig; cavy
+n02389026; sorrel; horse
+n02391049; zebra; equine
+n02395406; hog; swine
+n02396427; wild boar; swine
+n02397096; warthog; swine
+n02398521; hippopotamus; even-toed ungulate
+n02403003; ox; cattle
+n02408429; water buffalo; Old World buffalo
+n02410509; bison; bovid
+n02412080; ram; sheep
+n02415577; bighorn; mountain sheep
+n02417914; ibex; wild goat
+n02422106; hartebeest; antelope
+n02422699; impala; antelope
+n02423022; gazelle; antelope
+n02437312; Arabian camel; camel
+n02437616; llama; even-toed ungulate
+n02441942; weasel; musteline mammal
+n02442845; mink; musteline mammal
+n02443114; polecat; musteline mammal
+n02443484; black-footed ferret; musteline mammal
+n02444819; otter; musteline mammal
+n02445715; skunk; musteline mammal
+n02447366; badger; musteline mammal
+n02454379; armadillo; edentate
+n02457408; three-toed sloth; sloth
+n02480495; orangutan; great ape
+n02480855; gorilla; great ape
+n02481823; chimpanzee; great ape
+n02483362; gibbon; lesser ape
+n02483708; siamang; lesser ape
+n02484975; guenon; Old World monkey
+n02486261; patas; Old World monkey
+n02486410; baboon; Old World monkey
+n02487347; macaque; Old World monkey
+n02488291; langur; Old World monkey
+n02488702; colobus; Old World monkey
+n02489166; proboscis monkey; Old World monkey
+n02490219; marmoset; New World monkey
+n02492035; capuchin; New World monkey
+n02492660; howler monkey; New World monkey
+n02493509; titi; New World monkey
+n02493793; spider monkey; New World monkey
+n02494079; squirrel monkey; New World monkey
+n02497673; Madagascar cat; lemur
+n02500267; indri; lemur
+n02504013; Indian elephant; elephant
+n02504458; African elephant; elephant
+n02509815; lesser panda; procyonid
+n02510455; giant panda; procyonid
+n02514041; barracouta; food fish
+n02526121; eel; soft-finned fish
+n02536864; coho; salmon
+n02606052; rock beauty; butterfly fish
+n02607072; anemone fish; damselfish
+n02640242; sturgeon; ganoid
+n02641379; gar; ganoid
+n02643566; lionfish; scorpaenid
+n02655020; puffer; plectognath
+n02666196; abacus; calculator
+n02667093; abaya; robe
+n02669723; academic gown; gown
+n02672831; accordion; free-reed instrument
+n02676566; acoustic guitar; guitar
+n02687172; aircraft carrier; warship
+n02690373; airliner; airplane
+n02692877; airship; lighter-than-air craft
+n02699494; altar; structure
+n02701002; ambulance; car
+n02704792; amphibian; motor vehicle
+n02708093; analog clock; clock
+n02727426; apiary; shed
+n02730930; apron; protective garment
+n02747177; ashcan; bin
+n02749479; assault rifle; automatic rifle
+n02769748; backpack; bag
+n02776631; bakery; workplace
+n02777292; balance beam; gymnastic apparatus
+n02782093; balloon; lighter-than-air craft
+n02783161; ballpoint; pen
+n02786058; Band Aid; adhesive bandage
+n02787622; banjo; stringed instrument
+n02788148; bannister; barrier
+n02790996; barbell; weight
+n02791124; barber chair; chair
+n02791270; barbershop; shop
+n02793495; barn; farm building
+n02794156; barometer; measuring instrument
+n02795169; barrel; vessel
+n02797295; barrow; handcart
+n02799071; baseball; baseball equipment
+n02802426; basketball; basketball equipment
+n02804414; bassinet; baby bed
+n02804610; bassoon; double-reed instrument
+n02807133; bathing cap; cap
+n02808304; bath towel; bath linen
+n02808440; bathtub; vessel
+n02814533; beach wagon; car
+n02814860; beacon; tower
+n02815834; beaker; jar
+n02817516; bearskin; hat
+n02823428; beer bottle; bottle
+n02823750; beer glass; glass
+n02825657; bell cote; shelter
+n02834397; bib; piece of cloth
+n02835271; bicycle-built-for-two; bicycle
+n02837789; bikini; swimsuit
+n02840245; binder; protective covering
+n02841315; binoculars; optical instrument
+n02843684; birdhouse; shelter
+n02859443; boathouse; shed
+n02860847; bobsled; sled
+n02865351; bolo tie; necktie
+n02869837; bonnet; hat
+n02870880; bookcase; furniture
+n02871525; bookshop; shop
+n02877765; bottlecap; cap
+n02879718; bow; weapon
+n02883205; bow tie; necktie
+n02892201; brass; memorial
+n02892767; brassiere; woman's clothing
+n02894605; breakwater; barrier
+n02895154; breastplate; armor plate
+n02906734; broom; cleaning implement
+n02909870; bucket; vessel
+n02910353; buckle; fastener
+n02916936; bulletproof vest; vest
+n02917067; bullet train; passenger train
+n02927161; butcher shop; shop
+n02930766; cab; car
+n02939185; caldron; pot
+n02948072; candle; lamp
+n02950826; cannon; gun
+n02951358; canoe; small boat
+n02951585; can opener; opener
+n02963159; cardigan; sweater
+n02965783; car mirror; mirror
+n02966193; carousel; ride
+n02966687; carpenter's kit; kit
+n02971356; carton; box
+n02974003; car wheel; wheel
+n02977058; cash machine; machine
+n02978881; cassette; container
+n02979186; cassette player; electronic equipment
+n02980441; castle; fortification
+n02981792; catamaran; sailboat
+n02988304; CD player; electronic equipment
+n02992211; cello; bowed stringed instrument
+n02992529; cellular telephone; radiotelephone
+n02999410; chain; ligament
+n03000134; chainlink fence; fence
+n03000247; chain mail; body armor
+n03000684; chain saw; power saw
+n03014705; chest; box
+n03016953; chiffonier; chest of drawers
+n03017168; chime; percussion instrument
+n03018349; china cabinet; cabinet
+n03026506; Christmas stocking; stocking
+n03028079; church; place of worship
+n03032252; cinema; theater
+n03041632; cleaver; knife
+n03042490; cliff dwelling; dwelling
+n03045698; cloak; covering
+n03047690; clog; footwear
+n03062245; cocktail shaker; shaker
+n03063599; coffee mug; mug
+n03063689; coffeepot; pot
+n03065424; coil; structure
+n03075370; combination lock; lock
+n03085013; computer keyboard; data input device
+n03089624; confectionery; shop
+n03095699; container ship; cargo ship
+n03100240; convertible; car
+n03109150; corkscrew; bottle opener
+n03110669; cornet; brass
+n03124043; cowboy boot; boot
+n03124170; cowboy hat; hat
+n03125729; cradle; baby bed
+n03126707; crane; lifting device
+n03127747; crash helmet; helmet
+n03127925; crate; box
+n03131574; crib; baby bed
+n03133878; Crock Pot; cooker
+n03134739; croquet ball; croquet equipment
+n03141823; crutch; staff
+n03146219; cuirass; body armor
+n03160309; dam; barrier
+n03179701; desk; table
+n03180011; desktop computer; personal computer
+n03187595; dial telephone; telephone
+n03188531; diaper; garment
+n03196217; digital clock; clock
+n03197337; digital watch; watch
+n03201208; dining table; table
+n03207743; dishrag; piece of cloth
+n03207941; dishwasher; white goods
+n03208938; disk brake; hydraulic brake
+n03216828; dock; landing
+n03218198; dogsled; sled
+n03220513; dome; roof
+n03223299; doormat; mat
+n03240683; drilling platform; drill rig
+n03249569; drum; percussion instrument
+n03250847; drumstick; stick
+n03255030; dumbbell; weight
+n03259280; Dutch oven; oven
+n03271574; electric fan; fan
+n03272010; electric guitar; guitar
+n03272562; electric locomotive; locomotive
+n03290653; entertainment center; wall unit
+n03291819; envelope; container
+n03297495; espresso maker; coffee maker
+n03314780; face powder; powder
+n03325584; feather boa; scarf
+n03337140; file; office furniture
+n03344393; fireboat; boat
+n03345487; fire engine; truck
+n03347037; fire screen; screen
+n03355925; flagpole; staff
+n03372029; flute; woodwind
+n03376595; folding chair; chair
+n03379051; football helmet; helmet
+n03384352; forklift; self-propelled vehicle
+n03388043; fountain; structure
+n03388183; fountain pen; pen
+n03388549; four-poster; bed
+n03393912; freight car; car
+n03394916; French horn; brass
+n03400231; frying pan; pan
+n03404251; fur coat; coat
+n03417042; garbage truck; truck
+n03424325; gasmask; mask
+n03425413; gas pump; pump
+n03443371; goblet; glass
+n03444034; go-kart; motor vehicle
+n03445777; golf ball; golf equipment
+n03445924; golfcart; motor vehicle
+n03447447; gondola; boat
+n03447721; gong; percussion instrument
+n03450230; gown; dress
+n03452741; grand piano; piano
+n03457902; greenhouse; building
+n03459775; grille; grate
+n03461385; grocery store; marketplace
+n03467068; guillotine; instrument of execution
+n03476684; hair slide; clip
+n03476991; hair spray; toiletry
+n03478589; half track; military vehicle
+n03481172; hammer; hand tool
+n03482405; hamper; basket
+n03483316; hand blower; blower
+n03485407; hand-held computer; portable computer
+n03485794; handkerchief; piece of cloth
+n03492542; hard disc; magnetic disk
+n03494278; harmonica; free-reed instrument
+n03495258; harp; chordophone
+n03496892; harvester; farm machine
+n03498962; hatchet; ax
+n03527444; holster; sheath
+n03529860; home theater; theater
+n03530642; honeycomb; framework
+n03532672; hook; mechanical device
+n03534580; hoopskirt; skirt
+n03535780; horizontal bar; gymnastic apparatus
+n03538406; horse cart; cart
+n03544143; hourglass; sandglass
+n03584254; iPod; stereo
+n03584829; iron; home appliance
+n03590841; jack-o'-lantern; lantern
+n03594734; jean; trouser
+n03594945; jeep; car
+n03595614; jersey; shirt
+n03598930; jigsaw puzzle; puzzle
+n03599486; jinrikisha; cart
+n03602883; joystick; control
+n03617480; kimono; robe
+n03623198; knee pad; protective garment
+n03627232; knot; fastener
+n03630383; lab coat; coat
+n03633091; ladle; vessel
+n03637318; lampshade; shade
+n03642806; laptop; portable computer
+n03649909; lawn mower; garden tool
+n03657121; lens cap; cap
+n03658185; letter opener; knife
+n03661043; library; building
+n03662601; lifeboat; sea boat
+n03666591; lighter; device
+n03670208; limousine; car
+n03673027; liner; passenger ship
+n03676483; lipstick; makeup
+n03680355; Loafer; shoe
+n03690938; lotion; toiletry
+n03691459; loudspeaker; electro-acoustic transducer
+n03692522; loupe; hand glass
+n03697007; lumbermill; factory
+n03706229; magnetic compass; compass
+n03709823; mailbag; bag
+n03710193; mailbox; box
+n03710637; maillot; tights
+n03710721; maillot; swimsuit
+n03717622; manhole cover; top
+n03720891; maraca; percussion instrument
+n03721384; marimba; percussion instrument
+n03724870; mask; disguise
+n03729826; matchstick; stick
+n03733131; maypole; post
+n03733281; maze; system
+n03733805; measuring cup; measure
+n03742115; medicine chest; cabinet
+n03743016; megalith; memorial
+n03759954; microphone; electro-acoustic transducer
+n03761084; microwave; kitchen appliance
+n03763968; military uniform; uniform
+n03764736; milk can; can
+n03769881; minibus; bus
+n03770439; miniskirt; skirt
+n03770679; minivan; passenger van
+n03773504; missile; weapon
+n03775071; mitten; glove
+n03775546; mixing bowl; bowl
+n03776460; mobile home; trailer
+n03777568; Model T; car
+n03777754; modem; electronic equipment
+n03781244; monastery; religious residence
+n03782006; monitor; electronic equipment
+n03785016; moped; minibike
+n03786901; mortar; vessel
+n03787032; mortarboard; cap
+n03788195; mosque; place of worship
+n03788365; mosquito net; screen
+n03791053; motor scooter; wheeled vehicle
+n03792782; mountain bike; bicycle
+n03792972; mountain tent; tent
+n03793489; mouse; electronic device
+n03794056; mousetrap; trap
+n03796401; moving van; van
+n03803284; muzzle; restraint
+n03804744; nail; fastener
+n03814639; neck brace; brace
+n03814906; necklace; jewelry
+n03825788; nipple; cap
+n03832673; notebook; portable computer
+n03837869; obelisk; column
+n03838899; oboe; double-reed instrument
+n03840681; ocarina; wind instrument
+n03841143; odometer; meter
+n03843555; oil filter; filter
+n03854065; organ; wind instrument
+n03857828; oscilloscope; electronic equipment
+n03866082; overskirt; skirt
+n03868242; oxcart; cart
+n03868863; oxygen mask; breathing device
+n03871628; packet; package
+n03873416; paddle; oar
+n03874293; paddlewheel; wheel
+n03874599; padlock; lock
+n03876231; paintbrush; brush
+n03877472; pajama; nightwear
+n03877845; palace; residence
+n03884397; panpipe; pipe
+n03887697; paper towel; towel
+n03888257; parachute; rescue equipment
+n03888605; parallel bars; gymnastic apparatus
+n03891251; park bench; bench
+n03891332; parking meter; timer
+n03895866; passenger car; car
+n03899768; patio; area
+n03902125; pay-phone; telephone
+n03903868; pedestal; support
+n03908618; pencil box; box
+n03908714; pencil sharpener; sharpener
+n03916031; perfume; toiletry
+n03920288; Petri dish; dish
+n03924679; photocopier; duplicator
+n03929660; pick; device
+n03929855; pickelhaube; helmet
+n03930313; picket fence; fence
+n03930630; pickup; truck
+n03933933; pier; support
+n03935335; piggy bank; savings bank
+n03937543; pill bottle; bottle
+n03938244; pillow; cushion
+n03942813; ping-pong ball; ball
+n03944341; pinwheel; wheel
+n03947888; pirate; ship
+n03950228; pitcher; vessel
+n03954731; plane; hand tool
+n03956157; planetarium; building
+n03958227; plastic bag; bag
+n03961711; plate rack; rack
+n03967562; plow; tool
+n03970156; plunger; hand tool
+n03976467; Polaroid camera; camera
+n03976657; pole; rod
+n03977966; police van; van
+n03980874; poncho; cloak
+n03982430; pool table; table
+n03983396; pop bottle; bottle
+n03991062; pot; container
+n03992509; potter's wheel; wheel
+n03995372; power drill; power tool
+n03998194; prayer rug; rug
+n04004767; printer; printer
+n04005630; prison; correctional institution
+n04008634; projectile; weapon
+n04009552; projector; optical instrument
+n04019541; puck; disk
+n04023962; punching bag; ball
+n04026417; purse; bag
+n04033901; quill; pen
+n04033995; quilt; bedclothes
+n04037443; racer; car
+n04039381; racket; sports implement
+n04040759; radiator; mechanism
+n04041544; radio; communication system
+n04044716; radio telescope; astronomical telescope
+n04049303; rain barrel; cistern
+n04065272; recreational vehicle; self-propelled vehicle
+n04067472; reel; winder
+n04069434; reflex camera; camera
+n04070727; refrigerator; white goods
+n04074963; remote control; device
+n04081281; restaurant; building
+n04086273; revolver; pistol
+n04090263; rifle; firearm
+n04099969; rocking chair; chair
+n04111531; rotisserie; oven
+n04116512; rubber eraser; eraser
+n04118538; rugby ball; ball
+n04118776; rule; measuring stick
+n04120489; running shoe; shoe
+n04125021; safe; strongbox
+n04127249; safety pin; pin
+n04131690; saltshaker; shaker
+n04133789; sandal; shoe
+n04136333; sarong; skirt
+n04141076; sax; single-reed instrument
+n04141327; scabbard; sheath
+n04141975; scale; measuring instrument
+n04146614; school bus; bus
+n04147183; schooner; sailing vessel
+n04149813; scoreboard; signboard
+n04152593; screen; display
+n04153751; screw; fastener
+n04154565; screwdriver; hand tool
+n04162706; seat belt; safety belt
+n04179913; sewing machine; home appliance
+n04192698; shield; armor
+n04200800; shoe shop; shop
+n04201297; shoji; screen
+n04204238; shopping basket; basket
+n04204347; shopping cart; handcart
+n04208210; shovel; hand tool
+n04209133; shower cap; cap
+n04209239; shower curtain; curtain
+n04228054; ski; runner
+n04229816; ski mask; face mask
+n04235860; sleeping bag; bag
+n04238763; slide rule; analog computer
+n04239074; sliding door; door
+n04243546; slot; slot machine
+n04251144; snorkel; breathing device
+n04252077; snowmobile; tracked vehicle
+n04252225; snowplow; motor vehicle
+n04254120; soap dispenser; dispenser
+n04254680; soccer ball; ball
+n04254777; sock; hosiery
+n04258138; solar dish; reflector
+n04259630; sombrero; hat
+n04263257; soup bowl; bowl
+n04264628; space bar; key
+n04265275; space heater; heater
+n04266014; space shuttle; spacecraft
+n04270147; spatula; turner
+n04273569; speedboat; motorboat
+n04275548; spider web; web
+n04277352; spindle; stick
+n04285008; sports car; car
+n04286575; spotlight; lamp
+n04296562; stage; platform
+n04310018; steam locomotive; locomotive
+n04311004; steel arch bridge; bridge
+n04311174; steel drum; percussion instrument
+n04317175; stethoscope; medical instrument
+n04325704; stole; scarf
+n04326547; stone wall; fence
+n04328186; stopwatch; timer
+n04330267; stove; heater
+n04332243; strainer; filter
+n04335435; streetcar; self-propelled vehicle
+n04336792; stretcher; litter
+n04344873; studio couch; convertible
+n04346328; stupa; shrine
+n04347754; submarine; submersible
+n04350905; suit; garment
+n04355338; sundial; timepiece
+n04355933; sunglass; converging lens
+n04356056; sunglasses; spectacles
+n04357314; sunscreen; cream
+n04366367; suspension bridge; bridge
+n04367480; swab; cleaning implement
+n04370456; sweatshirt; pullover
+n04371430; swimming trunks; swimsuit
+n04371774; swing; mechanical device
+n04372370; switch; control
+n04376876; syringe; medical instrument
+n04380533; table lamp; lamp
+n04389033; tank; armored vehicle
+n04392985; tape player; electronic equipment
+n04398044; teapot; pot
+n04399382; teddy; plaything
+n04404412; television; telecommunication system
+n04409515; tennis ball; ball
+n04417672; thatch; roof
+n04418357; theater curtain; curtain
+n04423845; thimble; container
+n04428191; thresher; farm machine
+n04429376; throne; chair of state
+n04435653; tile roof; roof
+n04442312; toaster; kitchen appliance
+n04443257; tobacco shop; shop
+n04447861; toilet seat; seat
+n04456115; torch; light
+n04458633; totem pole; emblem
+n04461696; tow truck; truck
+n04462240; toyshop; shop
+n04465501; tractor; self-propelled vehicle
+n04467665; trailer truck; truck
+n04476259; tray; receptacle
+n04479046; trench coat; raincoat
+n04482393; tricycle; wheeled vehicle
+n04483307; trimaran; sailboat
+n04485082; tripod; rack
+n04486054; triumphal arch; arch
+n04487081; trolleybus; bus
+n04487394; trombone; brass
+n04493381; tub; vessel
+n04501370; turnstile; gate
+n04505470; typewriter keyboard; keyboard
+n04507155; umbrella; canopy
+n04509417; unicycle; wheeled vehicle
+n04515003; upright; piano
+n04517823; vacuum; home appliance
+n04522168; vase; jar
+n04523525; vault; roof
+n04525038; velvet; fabric
+n04525305; vending machine; slot machine
+n04532106; vestment; gown
+n04532670; viaduct; bridge
+n04536866; violin; bowed stringed instrument
+n04540053; volleyball; ball
+n04542943; waffle iron; kitchen appliance
+n04548280; wall clock; clock
+n04548362; wallet; case
+n04550184; wardrobe; furniture
+n04552348; warplane; heavier-than-air craft
+n04553703; washbasin; basin
+n04554684; washer; white goods
+n04557648; water bottle; bottle
+n04560804; water jug; jug
+n04562935; water tower; reservoir
+n04579145; whiskey jug; jug
+n04579432; whistle; acoustic device
+n04584207; wig; hairpiece
+n04589890; window screen; screen
+n04590129; window shade; window blind
+n04591157; Windsor tie; necktie
+n04591713; wine bottle; bottle
+n04592741; wing; airfoil
+n04596742; wok; pan
+n04597913; wooden spoon; spoon
+n04599235; wool; fabric
+n04604644; worm fence; rail fence
+n04606251; wreck; ship
+n04612504; yawl; small boat
+n04613696; yurt; dwelling
+n06359193; web site; computer
+n06596364; comic book; magazine
+n06785654; crossword puzzle; puzzle
+n06794110; street sign; sign
+n06874185; traffic light; light
+n07248320; book jacket; jacket
+n07565083; menu; fare
+n07579787; plate; entree
+n07583066; guacamole; dip
+n07584110; consomme; soup
+n07590611; hot pot; stew
+n07613480; trifle; pudding
+n07614500; ice cream; frozen dessert
+n07615774; ice lolly; frozen dessert
+n07684084; French loaf; loaf of bread
+n07693725; bagel; bun
+n07695742; pretzel; cracker
+n07697313; cheeseburger; hamburger
+n07697537; hotdog; sandwich
+n07711569; mashed potato; potato
+n07714571; head cabbage; cabbage
+n07714990; broccoli; cruciferous vegetable
+n07715103; cauliflower; cruciferous vegetable
+n07716358; zucchini; summer squash
+n07716906; spaghetti squash; summer squash
+n07717410; acorn squash; winter squash
+n07717556; butternut squash; winter squash
+n07718472; cucumber; vegetable
+n07718747; artichoke; vegetable
+n07720875; bell pepper; sweet pepper
+n07730033; cardoon; vegetable
+n07734744; mushroom; vegetable
+n07742313; Granny Smith; eating apple
+n07745940; strawberry; berry
+n07747607; orange; citrus
+n07749582; lemon; citrus
+n07753113; fig; edible fruit
+n07753275; pineapple; edible fruit
+n07753592; banana; edible fruit
+n07754684; jackfruit; edible fruit
+n07760859; custard apple; edible fruit
+n07768694; pomegranate; edible fruit
+n07802026; hay; fodder
+n07831146; carbonara; spaghetti sauce
+n07836838; chocolate sauce; sauce
+n07860988; dough; concoction
+n07871810; meat loaf; loaf of bread
+n07873807; pizza; dish
+n07875152; potpie; dish
+n07880968; burrito; dish
+n07892512; red wine; wine
+n07920052; espresso; coffee
+n07930864; cup; punch
+n07932039; eggnog; punch
+n09193705; alp; mountain
+n09229709; bubble; globule
+n09246464; cliff; geological formation
+n09256479; coral reef; reef
+n09288635; geyser; spring
+n09332890; lakeside; shore
+n09399592; promontory; natural elevation
+n09421951; sandbar; bar
+n09428293; seashore; shore
+n09468604; valley; natural depression
+n09472597; volcano; mountain
+n09835506; ballplayer; athlete
+n10148035; groom; participant
+n10565667; scuba diver; diver
+n11879895; rapeseed; oilseed
+n11939491; daisy; flower
+n12057211; yellow lady's slipper; lady's slipper
+n12144580; corn; kernel
+n12267677; acorn; fruit
+n12620546; hip; fruit
+n12768682; buckeye; seed
+n12985857; coral fungus; fungus
+n12998815; agaric; basidiomycete
+n13037406; gyromitra; fungus
+n13040303; stinkhorn; fungus
+n13044778; earthstar; fungus
+n13052670; hen-of-the-woods; fungus
+n13054560; bolete; fungus
+n13133613; ear; fruit
+n15075141; toilet tissue; tissue
