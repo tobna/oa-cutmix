@@ -1,5 +1,7 @@
 # OA-CutMix: Correcting the Label Bias of CutMix
 
+[![Project Page](https://img.shields.io/badge/Project%20Page-%234A90E2?style=flat)](https://nauen-it.de/publications/oa-cutmix)
+[![arXiv](https://img.shields.io/badge/arXiv-2606.04820-b31b1b?style=flat&logo=arxiv)](http://arxiv.org/abs/2606.04820)
 [![masks](https://img.shields.io/badge/Precomputed%20Segmentation%20Masks-download-%23F59E0B?style=flat&logo=huggingface)](https://huggingface.co/datasets/TNauen/Sam3-ImageNet-Segmentations)
 [![license](https://img.shields.io/badge/license-Apache--2.0-%23B7A800)](LICENSE)
 
@@ -9,6 +11,12 @@ This repository contains the official implementation of **Object-Aware CutMix (O
 an object-aware label reweighting strategy for CutMix. It is built on top of
 [OpenMixup](https://github.com/Westlake-AI/openmixup); see [Acknowledgement](#acknowledgement)
 and [the original README content](#about-openmixup) below for the underlying framework.
+
+## News
+
+- [04.06.2026] We have created a [**project page**](https://nauen-it.de/publications/oa-cutmix) for OA-CutMix 🌐
+- [04.06.2026] The OA-CutMix **preprint** is published on [arXiv](http://arxiv.org/abs/2606.04820) 🗞️
+- [03.06.2026] We release the **code** for OA-CutMix in this repository ⚙️
 
 ## Introduction
 
