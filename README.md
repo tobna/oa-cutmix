@@ -14,6 +14,7 @@ and [the original README content](#about-openmixup) below for the underlying fra
 
 ## News
 
+- [16.09.2026] OA-CutMix was presented and [published at ICANN 2026](https://doi.org/10.1007/978-3-032-38401-0_32)
 - [04.06.2026] We have created a [**project page**](https://nauen-it.de/publications/oa-cutmix) for OA-CutMix 🌐
 - [04.06.2026] The OA-CutMix **preprint** is published on [arXiv](http://arxiv.org/abs/2606.04820) 🗞️
 - [03.06.2026] We release the **code** for OA-CutMix in this repository ⚙️
@@ -122,11 +123,23 @@ We include scripts and configs for the ablations from the paper:
 If you find OA-CutMix useful in your research, please cite:
 
 ```bibtex
-@article{oacutmix,
-  title  = {OA-CutMix: Correcting the Label Bias of CutMix},
-  author = {Tobias Christian Nauen and Stanislav Frolov and Federico Raue and Brian B. Moser and Andreas Dengel},
-  year   = {2026}
+@inproceedings{Nauen2026OACutMix,
+  author = {Nauen, Tobias Christian and Frolov, Stanislav and Raue, Federico and
+            Moser, Brian B. and Dengel, Andreas},
+  booktitle = {Artificial Neural Networks and Machine Learning – ICANN 2026},
+  doi = {10.1007/978-3-032-38401-0_32},
+  eprint = {2606.04820},
+  eprintclass = {cs.CV},
+  eprinttype = {arxiv},
+  isbn = {9783032384010},
+  month = {9},
+  pages = {392--404},
+  publisher = {Springer Nature Switzerland},
+  series = {Lecture Notes in Computer Science},
+  title = {OA-CutMix: Correcting the Label Bias of CutMix},
+  year = {2026},
 }
+
 ```
 
 If you use this codebase, please also cite the underlying OpenMixup framework:
